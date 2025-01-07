@@ -1,0 +1,5 @@
+isLoggedin:true
+LOGGED_USER:Bisma
+LOGGED_PASS:123
+SESSION_COU:Thailand
+SESSION_CTY:Bangkok

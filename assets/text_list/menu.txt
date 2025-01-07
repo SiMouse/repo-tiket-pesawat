@@ -1,0 +1,6 @@
+1. Penerbangan Domestic
+2. Penerbangan Internasional
+3. Lokasi Sekarang
+4. Logout
+5. Resip
+0. Kembali

@@ -1,0 +1,6 @@
+Germany,Berlin:850
+Portugal,Porto:670
+Indonesia,Bali:560
+AS,Tampa:600
+Malaysia,Sarawak:650
+Thailand,Bangkok:350

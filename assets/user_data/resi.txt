@@ -1,0 +1,49 @@
+USER: Bisma
+TIPE: domestik
+LOKASI: Portugal, Lisboa
+TUJUAN: Portugal, Porto
+HARGA: 300
+STATUS: Dibayar
+
+USER: Bisma
+TIPE: internasional
+LOKASI: Portugal, Porto
+TUJUAN: AS, Tampa
+HARGA: 600
+STATUS: Dibayar
+
+USER: Bisma
+TIPE: internasional
+LOKASI: AS, Tampa
+TUJUAN: Indonesia, Bali
+HARGA: 560
+STATUS: Dibayar
+
+USER: Bisma
+TIPE: internasional
+LOKASI: Indonesia, Bali
+TUJUAN: Portugal, Porto
+HARGA: 670
+STATUS: Dibayar
+
+USER: Bisma
+TIPE: internasional
+LOKASI: Portugal, Porto
+TUJUAN: AS, Tampa
+HARGA: 600
+STATUS: Dibayar
+
+USER: Bisma
+TIPE: internasional
+LOKASI: AS, Tampa
+TUJUAN: Malaysia, Sarawak
+HARGA: 650
+STATUS: Dibayar
+
+USER: Bisma
+TIPE: internasional
+LOKASI: Malaysia, Sarawak
+TUJUAN: Thailand, Bangkok
+HARGA: 350
+STATUS: Dibayar
+

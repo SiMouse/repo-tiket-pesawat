@@ -1,0 +1,5 @@
+Germany:[Berlin:425,Munchen:350,Frankfurt:245,Hamburg:245]
+Portugal:[Lisboa:325,Porto:300,Quarteria:245,Seville:225]
+Indonesia:[Jakarta:380,Bali:300,Makassar:220,Surabaya:210]
+AS:[NY:400,Dallas:340,Miami:300,Tampa:250]
+Malaysia:[Kuala Lumpur:390,Sarawak:340,Sabah:280,Kampung Durian:250]
